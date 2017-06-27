@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfInventoryItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InventoryItem>
+    <brand>gggg</brand>
+    <flavor>ggg</flavor>
+    <qty>14</qty>
+    <price>500</price>
+  </InventoryItem>
+</ArrayOfInventoryItem>

@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfTransactionItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/26/17 18:35</date>
+    <brand>gggg</brand>
+    <flavor>ggg</flavor>
+    <price>500</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/26/17 18:35</date>
+    <brand>gggg</brand>
+    <flavor>ggg</flavor>
+    <price>500</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>07/25/16 22:38</date>
+    <brand>gggg</brand>
+    <flavor>ggg</flavor>
+    <price>500</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>07/12/16 23:32</date>
+    <brand>gggg</brand>
+    <flavor>ggg</flavor>
+    <price>500</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>07/12/16 23:32</date>
+    <brand>gggg</brand>
+    <flavor>ggg</flavor>
+    <price>500</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>07/12/16 23:32</date>
+    <brand>gggg</brand>
+    <flavor>ggg</flavor>
+    <price>500</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>07/12/16 23:32</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>07/12/16 23:32</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>07/12/16 23:32</date>
+    <brand>gggg</brand>
+    <flavor>ggg</flavor>
+    <price>500</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>07/12/16 23:32</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>07/12/16 23:32</date>
+    <brand>gggg</brand>
+    <flavor>ggg</flavor>
+    <price>500</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>07/12/16 23:32</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>07/12/16 23:32</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>07/12/16 23:31</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>07/12/16 23:31</date>
+    <brand>asdf</brand>
+    <flavor>asdf</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/29/16 21:19</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/29/16 21:19</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/29/16 19:56</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/28/16 22:46</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Semm</buyer>
+    <date>06/28/16 22:40</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/28/16 22:40</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/28/16 22:40</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/23/16 22:26</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/23/16 22:26</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>f</brand>
+    <flavor>f</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>f</brand>
+    <flavor>f</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Semm</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>f</brand>
+    <flavor>f</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Semm</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>f</brand>
+    <flavor>f</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Semm</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>f</brand>
+    <flavor>f</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Semm</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>f</brand>
+    <flavor>f</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Semm</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>d</brand>
+    <flavor>d</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Semm</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>d</brand>
+    <flavor>d</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>d</brand>
+    <flavor>d</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>1</brand>
+    <flavor>1</flavor>
+    <price>1000</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>1</brand>
+    <flavor>1</flavor>
+    <price>1000</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>1</brand>
+    <flavor>1</flavor>
+    <price>1000</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/23/16 22:20</date>
+    <brand>1</brand>
+    <flavor>1</flavor>
+    <price>1000</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/22/16 22:47</date>
+    <brand>1</brand>
+    <flavor>1</flavor>
+    <price>1000</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/22/16 22:47</date>
+    <brand>1</brand>
+    <flavor>1</flavor>
+    <price>1000</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/22/16 22:47</date>
+    <brand>d</brand>
+    <flavor>d</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/22/16 22:47</date>
+    <brand>d</brand>
+    <flavor>d</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/22/16 22:46</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/22/16 22:46</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/22/16 22:46</date>
+    <brand>d</brand>
+    <flavor>d</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/22/16 22:46</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/22/16 22:46</date>
+    <brand>d</brand>
+    <flavor>d</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/22/16 22:45</date>
+    <brand>1</brand>
+    <flavor>1</flavor>
+    <price>1000</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/22/16 22:45</date>
+    <brand>d</brand>
+    <flavor>d</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/22/16 22:45</date>
+    <brand>f</brand>
+    <flavor>f</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/22/16 22:45</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/22/16 22:45</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/22/16 22:45</date>
+    <brand>1</brand>
+    <flavor>1</flavor>
+    <price>1000</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/22/16 22:45</date>
+    <brand>1</brand>
+    <flavor>1</flavor>
+    <price>1000</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/22/16 22:36</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/15/16 21:03</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/15/16 21:03</date>
+    <brand>f</brand>
+    <flavor>f</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Semm</buyer>
+    <date>06/15/16 21:02</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Semm</buyer>
+    <date>06/15/16 21:02</date>
+    <brand>f</brand>
+    <flavor>f</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Semm</buyer>
+    <date>06/14/16 22:37</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/14/16 22:36</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/14/16 22:34</date>
+    <brand>f</brand>
+    <flavor>f</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Semm</buyer>
+    <date>06/14/16 22:32</date>
+    <brand>f</brand>
+    <flavor>f</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/14/16 22:24</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/14/16 22:24</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/14/16 22:24</date>
+    <brand>sdf</brand>
+    <flavor>asdf</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Enrique</buyer>
+    <date>06/14/16 21:34</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/14/16 21:34</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>06/14/16 21:34</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>03/16/16 23:19</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>03/16/16 23:16</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>20</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>03/16/16 23:15</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>03/16/16 23:12</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>03/16/16 23:09</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>03/16/16 23:09</date>
+    <brand>tea</brand>
+    <flavor>tea</flavor>
+    <price>25</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>03/16/16 23:08</date>
+    <brand>1</brand>
+    <flavor>1</flavor>
+    <price>100</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Rain</buyer>
+    <date>03/16/16 23:08</date>
+    <brand>1</brand>
+    <flavor>1</flavor>
+    <price>1000</price>
+  </TransactionItem>
+  <TransactionItem>
+    <buyer>Test</buyer>
+    <date>01/01/16 00:01</date>
+    <brand>test</brand>
+    <flavor>test</flavor>
+    <price>0</price>
+  </TransactionItem>
+</ArrayOfTransactionItem>
